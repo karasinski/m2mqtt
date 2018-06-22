@@ -9,6 +9,7 @@
     <OutputType>Library</OutputType>
     <RootNamespace>uPLibrary.Networking.M2Mqtt</RootNamespace>
     <AssemblyName>M2Mqtt.Mono</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
